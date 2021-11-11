@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://images6.alphacoders.com/563/thumb-1920-563541.png);
+    font-family: 'Handlee', cursive;
+}
+.title{
+    float: left;
+    margin-top: 20px;
+    margin-left: 100px;
+   
+}
+header{
+    background-color: rgb(124, 56, 163);
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    height: 70px;
+}
+header h1{
+    margin: -22px;
+    margin-left: -50px;
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+}
+.contenedor1{
+    background-color: rgb(233, 198, 253);
+    width: 350px;;
+    height: 500px;
+    float: left;
+    margin: 1em;
+    padding: 1em;
+}
+.contenedor2{
+    background-color: rgb(196, 253, 255);
+    float: left;
+    width: 350px;
+    height: 500px;
+    margin: 1em;
+    padding: 1em;
+}
+.contenedor3{
+    background-color: rgb(253, 198, 246);
+    float: left;
+    width: 350px;
+    height: 500px;
+    margin: 1em;
+    padding: 1em;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 30px;
+}
+section{
+    float: center;
+}
+p{
+    text-align: justify;
+}
